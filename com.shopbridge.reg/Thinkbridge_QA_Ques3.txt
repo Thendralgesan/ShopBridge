@@ -1,0 +1,21 @@
+Question No:3
+
+I understand that this is a page for requesting new Electrical connection with BEST. While the page
+does what it needs to , the following improvements can be Made:
+1) From an Usability perspective, the page can be broken into multiple sections and can be allowed to save after each 
+(Example Applicant Details in Page 1, Save and proceed to Address Info and so on)
+
+2) While field level validations are done, it would be great to have suggestions / Tooltip for each Attribute
+(For example, Mobile Number box can suggest it should be a 10 digit numeric only, Nearby service number format can be given as example)
+
+3)The Separate Help document is provided through a link, but it can be combined with the Data entry and be shown 
+during data entry (On Hover, or as tool tip)
+
+4) The Mobile number validation through OTP can be done in the Top Contact section itself, instead of being done at the end
+5) Load calculator can be simplified by suggesting Loads (Medium, Light, Heavy  with some default values, instead of a detailed calculator)
+6) UX/UI feels very old with basic HTML. Needs a fresh UX design to make it look contemporary/modern
+7) Should have suggestive data entry wherever possible (Dropdown has many values , and should be filtered based on user text entry)
+8) Page is laid out very badly with a lot of space wasted (After the data entry, the right side is fully wasted)
+9) It would be easier if the Mandatory indicator (*) is near the Data entry side (Near the Text field), rather than on the Label side (on left)
+10) Doesnt specify the specs/limit for Photos and Docs, so the user will get issues while trying to upload documents larger than what the
+server can accept
